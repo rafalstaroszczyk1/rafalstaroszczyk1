@@ -33,3 +33,6 @@
 <br />
 
 ---
+
+
+[linkedin]: https://www.linkedin.com/in/rafa%C5%82-staroszczyk-5670b4139
