@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate with other Python enthusiast
 - 🥅 2021 Goals: Complete e-comerce project in Django
+- 🏋️ Workout everyday!
 - ⚡ I love swimming
 
 ### Connect with me:
