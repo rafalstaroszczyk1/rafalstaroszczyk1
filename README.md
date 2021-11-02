@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align=”left” alt=”LinkedIn” width=”80" src=”https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/rafa%C5%82-staroszczyk-5670b4139) 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
