@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align=”left” alt=”LinkedIn” width=”80" src=”https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />][linkedin]
 
 
 <br />
