@@ -2,7 +2,7 @@
 
 
 
-## I'm a PLC Programmer and Python enthusiast !
+## I'm a Python Engineer!
 
 - 🌱 I’m currently learning Robot Framework
 - 👯 I’m looking to collaborate with other Python enthusiast
